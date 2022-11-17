@@ -23,3 +23,8 @@ Should end with
 
 ## decleare a variable (strictly typed) 
 int age = 16;
+## input output 
+std::cout
+std::cin
+std::cerr
+std::clog
