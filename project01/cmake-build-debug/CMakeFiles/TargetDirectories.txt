@@ -1,0 +1,3 @@
+D:/programming/c in month/project01/cmake-build-debug/CMakeFiles/project01.dir
+D:/programming/c in month/project01/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programming/c in month/project01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
